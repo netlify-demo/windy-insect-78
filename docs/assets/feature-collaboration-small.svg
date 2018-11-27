@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="134px" height="101px" viewBox="0 0 134 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>feature-collaboration-small</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.459130396 0.246900267 111.559997 0.246900267 111.559997 35.5739809 0.459130396 35.5739809"></polygon>
+        <filter x="-28.8%" y="-79.3%" width="157.6%" height="281.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0683876812 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-3" cx="10.937693" cy="10.937693" r="10.937693"></circle>
+        <circle id="path-5" cx="10.937693" cy="10.937693" r="10.937693"></circle>
+        <linearGradient x1="50%" y1="0%" x2="229.738974%" y2="124.736727%" id="linearGradient-7">
+            <stop stop-color="#C8C8C8" stop-opacity="0.128877944" offset="0%"></stop>
+            <stop stop-color="#5D686D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="feature-collaboration-small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="collaboration-minimal-ver" transform="translate(10.711398, 4.166219)">
+            <g id="person">
+                <g id="Rectangle-4">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M42.1256709,12.3362574 L50.3753193,12.3362574" id="Path-18" stroke="#E8EAEA" stroke-width="5" stroke-linecap="round"></path>
+                <path d="M42.1256709,19.2629042 L81.8600774,19.2629042" id="Path-18" stroke="#EFF0F0" stroke-width="2.4" stroke-linecap="round"></path>
+                <path d="M42.1256709,23.0410752 L81.8600774,23.0410752" id="Path-18" stroke="#EFF0F0" stroke-width="2.4" stroke-linecap="round"></path>
+                <g transform="translate(8.657156, 7.167516)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Oval" fill="#E0E3E3" opacity="0.762723214" transform="translate(10.937693, 10.937693) scale(-1, 1) translate(-10.937693, -10.937693) " xlink:href="#path-3"></use>
+                    <g id="Group-67" mask="url(#mask-4)" fill="#2D3B41">
+                        <g transform="translate(10.958668, 14.903193) scale(-1, 1) translate(-10.958668, -14.903193) translate(2.958668, 7.403193)">
+                            <circle id="Oval-7" cx="7.61789773" cy="2.74523891" r="2.38064914"></circle>
+                            <path d="M0.429277045,14.9217699 L2.87624846,9.45317548 C3.71390299,7.58115001 5.57335405,6.37606514 7.62424275,6.37606514 L7.62424275,6.37606514 C9.7041564,6.37606514 11.6197976,7.50622931 12.6256708,9.32674023 L15.7170503,14.9217699" id="Path-31"></path>
+                        </g>
+                    </g>
+                </g>
+                <path d="M22.0461485,25.1366377 L31.9119181,26.9715783" id="Path-35" stroke="#2D3B41" stroke-width="2.21298739" stroke-linecap="round"></path>
+                <path d="M21.3169689,22.2199196 L28.2660204,24.0548601" id="Path-35" stroke="#2D3B41" stroke-width="2.21298739" stroke-linecap="round"></path>
+            </g>
+            <g id="person" transform="translate(61.821040, 68.488297)">
+                <g transform="translate(3.161152, 0.158752)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <use id="Oval" fill="#E0E3E3" opacity="0.762723214" xlink:href="#path-5"></use>
+                    <g id="Group-67" mask="url(#mask-6)" fill="#2D3B41">
+                        <g transform="translate(10.958668, 14.903193) scale(-1, 1) translate(-10.958668, -14.903193) translate(2.958668, 7.403193)">
+                            <circle id="Oval-7" cx="7.61789773" cy="2.74523891" r="2.38064914"></circle>
+                            <path d="M0.429277045,14.9217699 L2.87624846,9.45317548 C3.71390299,7.58115001 5.57335405,6.37606514 7.62424275,6.37606514 L7.62424275,6.37606514 C9.7041564,6.37606514 11.6197976,7.50622931 12.6256708,9.32674023 L15.7170503,14.9217699" id="Path-31"></path>
+                        </g>
+                    </g>
+                </g>
+                <path d="M0.0192630473,16.7367678 L9.88503265,18.5717083" id="Path-35" stroke="#2D3B41" stroke-width="2.21298739" stroke-linecap="round" transform="translate(4.952148, 17.654238) scale(-1, 1) rotate(-27.000000) translate(-4.952148, -17.654238) "></path>
+                <path d="M6.85895841,14.7329357 L16.724728,16.5678762" id="Path-35" stroke="#2D3B41" stroke-width="2.21298739" stroke-linecap="round" transform="translate(11.791843, 15.650406) scale(-1, 1) rotate(-27.000000) translate(-11.791843, -15.650406) "></path>
+            </g>
+            <g id="Group-4" transform="translate(52.886748, 75.438203) rotate(46.000000) translate(-52.886748, -75.438203) translate(40.386748, 62.938203)" stroke-linecap="round" stroke-width="2.2">
+                <path d="M12.9341502,0.0594363851 L12.9341502,3.52275978" id="Path-11" stroke="#F9D86E"></path>
+                <path d="M12.9341502,20.8393767 L12.9341502,24.3027001" id="Path-11" stroke="#00C7B7" fill="#D8D8D8"></path>
+                <path d="M5.11136897,3.29973849 L5.11136897,6.76306188" id="Path-11" stroke="#00C7B7" fill="#D8D8D8" transform="translate(5.111369, 5.031400) scale(-1, 1) rotate(45.000000) translate(-5.111369, -5.031400) "></path>
+                <path d="M19.8050057,17.9933752 L19.8050057,21.4566986" id="Path-11" stroke="#E7645C" transform="translate(19.805006, 19.725037) scale(-1, 1) rotate(45.000000) translate(-19.805006, -19.725037) "></path>
+                <path d="M20.5172241,3.29973849 L20.5172241,6.76306188" id="Path-11" stroke="#E7645C" transform="translate(20.517224, 5.031400) rotate(45.000000) translate(-20.517224, -5.031400) "></path>
+                <path d="M5.8235874,17.9933752 L5.8235874,21.4566986" id="Path-11" stroke="#F9D86E" transform="translate(5.823587, 19.725037) rotate(45.000000) translate(-5.823587, -19.725037) "></path>
+                <path d="M2.04056559,10.7133136 L2.04056559,14.176637" id="Path-11" stroke="#E7645C" transform="translate(2.040566, 12.444975) rotate(-90.000000) translate(-2.040566, -12.444975) "></path>
+                <path d="M22.8205059,10.7133136 L22.8205059,14.176637" id="Path-11" stroke="#F9D86E" transform="translate(22.820506, 12.444975) rotate(-90.000000) translate(-22.820506, -12.444975) "></path>
+            </g>
+            <g id="add-button" transform="translate(46.078661, 67.858602)">
+                <circle id="Oval-3" fill="#00C7B7" cx="7.3622716" cy="7.35106285" r="6.82716391"></circle>
+                <path d="M4.10449177,7.48824698 L10.8944197,7.48824698" id="Path-4" stroke="#FFFFFF" stroke-width="2.74428" stroke-linecap="round" transform="translate(7.499456, 7.488247) rotate(90.000000) translate(-7.499456, -7.488247) "></path>
+                <path d="M4.10449177,7.48824698 L10.8944197,7.48824698" id="Path-4" stroke="#FFFFFF" stroke-width="2.74428" stroke-linecap="round"></path>
+            </g>
+            <path d="M34.1073848,30.3177882 C39.3866825,33.9496058 40.9071598,43.7153647 36.7990687,49.9037108 C32.6909777,56.0920568 35.2245984,65.6578692 44.0885487,71.92066" id="Path-2" stroke="url(#linearGradient-7)" stroke-width="2" opacity="0.727734375" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

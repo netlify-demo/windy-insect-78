@@ -1,0 +1,99 @@
+
+
+
+.imageAlignTop .blockImage {
+  max-width: 171px;
+  margin-bottom: 0;
+}
+
+.blockContent {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.button:first-of-type {
+  margin-right: 20px;
+}
+
+
+.icon-text {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+
+  margin-bottom: 30px;
+}
+
+
+.icon-text__icon {
+  margin-left: 10px;
+  margin-right: 20px;
+}
+
+.icon-text__text {
+  max-width: 460px;
+}
+
+
+h2 {
+  margin-top: 40px;
+}
+
+
+.button--block {
+  display: block;
+}
+
+.button--top-margin {
+  margin-top: 30px;
+}
+
+.button--fixed-width {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 220px;
+}
+
+.button--fixed-width:first-of-type {
+  /* To overcome CSS specificy in default Docusaurus styles */
+  margin-right: auto;
+}
+
+
+.mainContainer {
+}
+
+
+.projectTitle {
+  color: #000000;
+}
+
+.mainContainer a:link,
+.mainContainer a:visited {
+  border-bottom: 1px solid #506E7C;
+}
+
+.mainContainer a:hover {
+  opacity: .75;
+}
+
+
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
+}
+
+@media only screen and (min-width: 1024px) {
+  .homeContainer {
+    padding-top: 150px;
+  }
+}
+
+@media only screen and (max-width: 1023px) {
+}
+
+@media only screen and (min-width: 1400px) {
+}
+
+@media only screen and (min-width: 1500px) {
+
+}
